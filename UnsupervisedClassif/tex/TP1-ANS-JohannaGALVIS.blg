@@ -1,0 +1,5 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'TP1-ANS-JohannaGALVIS.blg'
+[96] biber:330> INFO - === mar. juin 22, 2021, 12:33:40
+[143] Utils.pm:400> ERROR - Cannot find 'TP1-ANS-JohannaGALVIS.bcf'!
+[143] Biber.pm:132> INFO - ERRORS: 1
