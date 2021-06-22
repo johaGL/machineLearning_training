@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{SUPERVISED LEARNING \(TP-AS\)}{}% 1
+\BOOKMARK [1][-]{section.2}{I. Feature engineering \046 Classification}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{I. 1 data preparation}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{I.2 Learning and evaluating models}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{I.3 NORMALIZED DATA : running again CART, KNN and MLP}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{I.4 Adding new variables from PCA}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{I.5 Pick out variables : first approach with Random Forest \(not optimized\)}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{I.6 EFFICIENT PARAMETER TUNING : GridSearchCV}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{I.8 Comparing learning algorithms \(Comparaison de plusieurs algorithmes d'apprentissage\)}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.8}{I.9 Use optimal classifier to check variables vs accuracy}{section.2}% 10
+\BOOKMARK [1][-]{section.3}{II. Heterogeneous Data}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{II.1 Data preparation and Normalization}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{II.2 Treat Missing values : imputer}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{III. Textual data : Feature engineering et Classification}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{III.1 SMS data}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{III.2 YELP data}{section.4}% 16
+\BOOKMARK [3][-]{subsubsection.4.2.1}{APPENDIX : YELP multilabel problem \(stars\)}{subsection.4.2}% 17
