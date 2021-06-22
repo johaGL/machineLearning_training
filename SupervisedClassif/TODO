@@ -1,0 +1,15 @@
+HEY: 
+ "" in the context of better  accuracy + PRECISION"""
+ 1. redo GRID but only accuracy and reuse optim params for run
+  	runclassifiers
+ 2. run funciton 'runclassifiers'
+3.  reselect best variables using the best method with best parameters ! 
+4. re-run 'runclassifiers' with selected variables only
+
+see what happens ! 
+ 
+ "" datamining:
+ 'spam': better accuracy + PRECISSION : 
+    capture only true spam
+    even if some false negative scape us ("true spam treated as no-spam")
+    as we want to minimize false positive rate (true messages to junk!)
